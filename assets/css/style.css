@@ -137,6 +137,7 @@ h3, h2 {
 
 .work:nth-child(even) {
     margin-right: 40px;
+    clear: both;
 }
 
 .work img {
