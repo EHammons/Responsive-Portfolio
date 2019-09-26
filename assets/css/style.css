@@ -161,6 +161,10 @@ h3, h2 {
     border-bottom: 0;
 }
 
+.whereabounds {
+    font-family: 'Prata', serif;
+}
+
 #contact-form ul {
     margin-bottom: 20px;
 }
