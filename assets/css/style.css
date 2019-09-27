@@ -166,6 +166,13 @@ h3, h2 {
     font-size: 30px;
 }
 
+.portInst {
+    font-size: 15px;
+    margin: 0;
+    float: right;
+    font-weight: normal;
+}
+
 #contact-form ul {
     margin-bottom: 20px;
 }
